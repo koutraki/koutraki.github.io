@@ -31,9 +31,9 @@ author_profile: false
 
 ### 2017
 
-* Besnik Fetahu.	Approaches for Enriching and Improving Textual Knowledge Bases. PhD Thesis; Hannover, Germany. [PDF]
+* Besnik Fetahu.	Approaches for Enriching and Improving Textual Knowledge Bases. PhD Thesis; Hannover, Germany. [PDF]()
 
-* Besnik Fetahu, Katja Markert, and Avishek Anand. Fine Grained Citation Span for References in Wikipedia. EMNLP 2017; Copenhagen, Denmark. [PDF | slides]
+* Besnik Fetahu, Katja Markert, and Avishek Anand. Fine Grained Citation Span for References in Wikipedia. EMNLP 2017; Copenhagen, Denmark.
 
 * Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase, Patrick Siehndel, and Stefan Dietze. Using Worker Self-Assessments for Competence-based Pre-Selection in Crowdsourcing Microtasks. ACM TOCHI 2017.
 
