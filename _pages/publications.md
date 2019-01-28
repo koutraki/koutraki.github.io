@@ -108,3 +108,8 @@ author_profile: false
 
 * Davide Taibi, Besnik Fetahu, Stefan Dietze. Towards integration of web data into a coherent educational data graph. WWW (Companion Volume) 2013: 419-424
 
+
+### 2012
+
+* Besnik Fetahu, Ralf Schenkel. Retrieval evaluation on focused tasks. SIGIR 2012: 1135-1136
+
