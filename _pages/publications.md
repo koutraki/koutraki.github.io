@@ -20,6 +20,9 @@ author_profile: false
 ### 2018
 
 1. Effects of Contributor Experience on the Quality of Health-Related Wikipedia Articles. Peter Holtz, Besnik Fetahu, and Joachim Kimmerle. Journal of Medical Internet Research [PDF](https://www.jmir.org/2018/5/e171/)
+
 2. Real-time Event-based News Suggestion for Wikipedia Pages from News Streams. Lijun Lyu and Besnik Fetahu. WikiWorkshop 2018, The Web Conference; Lyon, France. [PDF](https://doi.org/10.1145/3184558.3191642)
+
 3. Detecting Biased Statements in Wikipedia. Christoph Hube and Besnik Fetahu.  WikiWorkshop 2018, The Web Conference; Lyon, France. [PDF](https://doi.org/10.1145/3184558.3191640)
+
 4. Besnik Fetahu. Approaches for Enriching and Improving Textual Knowledge Bases. SIGIR Forum 52(1): 167-168 (2018) [PDF](https://doi.org/10.1145/3274784.3274806)
