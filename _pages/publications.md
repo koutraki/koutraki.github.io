@@ -27,3 +27,15 @@ author_profile: false
 * Detecting Biased Statements in Wikipedia. Christoph Hube and Besnik Fetahu.  WikiWorkshop 2018, The Web Conference; Lyon, France. [PDF](https://doi.org/10.1145/3184558.3191640)
 
 * Besnik Fetahu. Approaches for Enriching and Improving Textual Knowledge Bases. SIGIR Forum 52(1): 167-168 (2018) [PDF](https://doi.org/10.1145/3274784.3274806)
+
+
+### 2017
+
+* Besnik Fetahu.	Approaches for Enriching and Improving Textual Knowledge Bases. PhD Thesis; Hannover, Germany. [PDF]
+
+* Besnik Fetahu, Katja Markert, and Avishek Anand. Fine Grained Citation Span for References in Wikipedia. EMNLP 2017; Copenhagen, Denmark. [PDF | slides]
+
+* Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase, Patrick Siehndel, and Stefan Dietze. Using Worker Self-Assessments for Competence-based Pre-Selection in Crowdsourcing Microtasks. ACM TOCHI 2017.
+
+* Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Stefan Dietze. FuseM: Query-Centric Data Fusion on Structured Web Markup. ICDE 2017: 179-182; San Diego, CA, USA.
+
