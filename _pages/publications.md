@@ -26,4 +26,4 @@ author_profile: false
 
 * Detecting Biased Statements in Wikipedia. Christoph Hube and Besnik Fetahu.  WikiWorkshop 2018, The Web Conference; Lyon, France. [PDF](https://doi.org/10.1145/3184558.3191640)
 
-4. Besnik Fetahu. Approaches for Enriching and Improving Textual Knowledge Bases. SIGIR Forum 52(1): 167-168 (2018) [PDF](https://doi.org/10.1145/3274784.3274806)
+* Besnik Fetahu. Approaches for Enriching and Improving Textual Knowledge Bases. SIGIR Forum 52(1): 167-168 (2018) [PDF](https://doi.org/10.1145/3274784.3274806)
