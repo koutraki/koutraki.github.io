@@ -46,13 +46,10 @@ For a complete list of my publications please see:
 ### 2016
 
 * Besnik Fetahu, Katja Markert, Wolfgang Nejdl, Avishek Anand. Finding News Citations for Wikipedia. CIKM 2016: 337-346
+
 * Ran Yu, Ujwal Gadiraju, Xiaofei Zhu, Besnik Fetahu, Stefan Dietze. Towards Entity Summarisation on Structured Web Markup. ESWC (Satellite Events) 2016: 69-73
 
 * Ran Yu, Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. A Survey on Challenges in Web Markup Data for Entity Retrieval. International Semantic Web Conference (Posters & Demos) 2016
-
-* Davide Taibi, Giovanni Fulantelli, Stefan Dietze, Besnik Fetahu. Educational Linked Data on the Web - Exploring and Analysing the Scope and Coverage. Open Data for Education 2016: 16-37
-
-* Jakob Beetz, Ina Blümel, Stefan Dietze, Besnik Fetahu, Ujwal Gadiraju, Martin Hecher, Thomas Krijnen, Michelle Lindlar, Martin Tamke, Raoul Wessel, Ran Yu. Enrichment and Preservation of Architectural Knowledge. 3D Research Challenges in Cultural Heritage 2016: 231-255
 
 
 ### 2016
@@ -63,28 +60,16 @@ For a complete list of my publications please see:
 
 * Besnik Fetahu, Abhijit Anand, Avishek Anand. How much is Wikipedia Lagging Behind News? WebSci 2015: 28:1-28:9
 
-* Davide Taibi, Saniya Chawla, Stefan Dietze, Ivana Marenzi, Besnik Fetahu. Exploring TED talks as linked data for education. BJET 46(5): 1092-1096 (2015)
-
 * Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase. Training Workers for Improving Performance in Crowdsourcing Microtasks. EC-TEL 2015: 100-114
 
 * Ujwal Gadiraju, Patrick Siehndel, Besnik Fetahu, Ricardo Kawase. Breaking Bad: Understanding Behavior of Crowd Workers in Categorization Microtasks. HT 2015: 33-38
-
-* Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Stefan Dietze. Adaptive Focused Crawling of Linked Data. WISE (1) 2015: 554-569
-
-* Davide Taibi, Giovanni Fulantelli, Stefan Dietze, Besnik Fetahu. Towards Analysing the Scope and Coverage of Educational Linked Data on the Web. WWW (Companion Volume) 2015: 705-710
 
 
 ### 2014
 
 * Besnik Fetahu, Stefan Dietze, Bernardo Pereira Nunes, Marco Antonio Casanova, Davide Taibi, Wolfgang Nejdl. A Scalable Approach for Efficiently Generating Structured Dataset Topic Profiles. ESWC 2014: 519-534
 
-* Bernardo Pereira Nunes, Alexander Arturo Mera Caraballo, Ricardo Kawase, Besnik Fetahu, Marco A. Casanova, Gilda Helena Bernardino de Campos. A Topic Extraction Process for Online Forums. ICALT 2014: 541-543
-
 * Davide Taibi, Stefan Dietze, Besnik Fetahu, Giovanni Fulantelli. Exploring type-specific topic profiles of datasets: a demo for educational linked data. International Semantic Web Conference (Posters & Demos) 2014: 353-356
-
-* Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. Crawl Me Maybe: Iterative Linked Dataset Preservation. International Semantic Web Conference (Posters & Demos) 2014: 433-436
-
-* Bernardo Pereira Nunes, Ricardo Kawase, Besnik Fetahu, Marco A. Casanova, Gilda Helena Bernardino de Campos. Educational Forums at a Glance: Topic Extraction and Selection. WISE (2) 2014: 351-364
 
 * Besnik Fetahu, Stefan Dietze, Bernardo Pereira Nunes, Marco Antonio Casanova, Davide Taibi, Wolfgang Nejdl. What's all the data about?: creating structured profiles of linked data on the web. WWW (Companion Volume) 2014: 261-262
 
@@ -93,24 +78,9 @@ For a complete list of my publications please see:
 
 * Bernardo Pereira Nunes, Alexander Arturo Mera Caraballo, Marco Antonio Casanova, Besnik Fetahu, Luiz André P. Paes Leme, Stefan Dietze. Complex Matching of RDF Datatype Properties. DEXA (1) 2013: 195-208
 
-* Davide Taibi, Giovanni Fulantelli, Stefan Dietze, Besnik Fetahu. Evaluating Relevance of Educational Resources of Social and Semantic Web. EC-TEL 2013: 637-638
-
 * Bernardo Pereira Nunes, Stefan Dietze, Marco Antonio Casanova, Ricardo Kawase, Besnik Fetahu, Wolfgang Nejdl. Combining a Co-occurrence-Based and a Semantic Measure for Entity Linking. ESWC 2013: 548-562
 
-* Besnik Fetahu, Bernardo Pereira Nunes, Stefan Dietze. Summaries on the Fly: Query-Based Extraction of Structured Knowledge from Web Documents. ICWE 2013: 249-264
-
-* Bernardo Pereira Nunes, Ricardo Kawase, Besnik Fetahu, Stefan Dietze, Marco A. Casanova, Diana Maynard. Interlinking Documents based on Semantic Graphs. KES 2013: 231-240
-
-* Bernardo Pereira Nunes, Besnik Fetahu, Marco Antonio Casanova. Cite4Me: Semantic Retrieval and Analysis of Scientific Publications. LAK (Data Challenge) 2013
-
-* Bernardo Pereira Nunes, Besnik Fetahu, Stefan Dietze, Marco A. Casanova. Cite4Me: A Semantic Search and Retrieval Web Application for Scientific Publications. International Semantic Web Conference (Posters & Demos) 2013: 25-28
-
 * Besnik Fetahu, Stefan Dietze, Bernardo Pereira Nunes, Davide Taibi, Marco Antonio Casanova. Generating structured Profiles of Linked Data Graphs. International Semantic Web Conference (Posters & Demos) 2013: 113-116
-
-* Besnik Fetahu, Bernardo Pereira Nunes, Stefan Dietze. Towards focused knowledge extraction: query-based extraction of structured summaries. WWW (Companion Volume) 2013: 77-78
-
-* Davide Taibi, Besnik Fetahu, Stefan Dietze. Towards integration of web data into a coherent educational data graph. WWW (Companion Volume) 2013: 419-424
-
 
 ### 2012
 
