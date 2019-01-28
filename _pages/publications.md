@@ -39,3 +39,16 @@ author_profile: false
 
 * Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Stefan Dietze. FuseM: Query-Centric Data Fusion on Structured Web Markup. ICDE 2017: 179-182; San Diego, CA, USA.
 
+
+### 2016
+
+* Besnik Fetahu, Katja Markert, Wolfgang Nejdl, Avishek Anand. Finding News Citations for Wikipedia. CIKM 2016: 337-346
+* Ran Yu, Ujwal Gadiraju, Xiaofei Zhu, Besnik Fetahu, Stefan Dietze. Towards Entity Summarisation on Structured Web Markup. ESWC (Satellite Events) 2016: 69-73
+
+* Ran Yu, Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. A Survey on Challenges in Web Markup Data for Entity Retrieval. International Semantic Web Conference (Posters & Demos) 2016
+
+* Davide Taibi, Giovanni Fulantelli, Stefan Dietze, Besnik Fetahu. Educational Linked Data on the Web - Exploring and Analysing the Scope and Coverage. Open Data for Education 2016: 16-37
+
+* Jakob Beetz, Ina Blümel, Stefan Dietze, Besnik Fetahu, Ujwal Gadiraju, Martin Hecher, Thomas Krijnen, Michelle Lindlar, Martin Tamke, Raoul Wessel, Ran Yu. Enrichment and Preservation of Architectural Knowledge. 3D Research Challenges in Cultural Heritage 2016: 231-255
+
+
