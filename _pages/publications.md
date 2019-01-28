@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
-For a complete list of my publications please see: | [DBLP](https://dblp.org/pers/hd/f/Fetahu:Besnik) | [Google Scholar](https://scholar.google.de/citations?user=-CQlI8EAAAAJ&hl=en&oi=ao) |
+For a complete list of my publications please see:  
+[DBLP](https://dblp.org/pers/hd/f/Fetahu:Besnik) | [Google Scholar](https://scholar.google.de/citations?user=-CQlI8EAAAAJ&hl=en&oi=ao)
 
 ### 2019
 
