@@ -52,3 +52,22 @@ author_profile: false
 * Jakob Beetz, Ina Blümel, Stefan Dietze, Besnik Fetahu, Ujwal Gadiraju, Martin Hecher, Thomas Krijnen, Michelle Lindlar, Martin Tamke, Raoul Wessel, Ran Yu. Enrichment and Preservation of Architectural Knowledge. 3D Research Challenges in Cultural Heritage 2016: 231-255
 
 
+### 2016
+
+* Besnik Fetahu, Katja Markert, Avishek Anand. Automated News Suggestions for Populating Wikipedia Entity Pages. CIKM 2015: 323-332
+
+* Besnik Fetahu, Ujwal Gadiraju, Stefan Dietze. Improving Entity Retrieval on Structured Data. International Semantic Web Conference (1) 2015: 474-491
+
+* Besnik Fetahu, Abhijit Anand, Avishek Anand. How much is Wikipedia Lagging Behind News? WebSci 2015: 28:1-28:9
+
+* Davide Taibi, Saniya Chawla, Stefan Dietze, Ivana Marenzi, Besnik Fetahu. Exploring TED talks as linked data for education. BJET 46(5): 1092-1096 (2015)
+
+* Ujwal Gadiraju, Besnik Fetahu, Ricardo Kawase. Training Workers for Improving Performance in Crowdsourcing Microtasks. EC-TEL 2015: 100-114
+
+* Ujwal Gadiraju, Patrick Siehndel, Besnik Fetahu, Ricardo Kawase. Breaking Bad: Understanding Behavior of Crowd Workers in Categorization Microtasks. HT 2015: 33-38
+
+* Ran Yu, Ujwal Gadiraju, Besnik Fetahu, Stefan Dietze. Adaptive Focused Crawling of Linked Data. WISE (1) 2015: 554-569
+
+* Davide Taibi, Giovanni Fulantelli, Stefan Dietze, Besnik Fetahu. Towards Analysing the Scope and Coverage of Educational Linked Data on the Web. WWW (Companion Volume) 2015: 705-710
+
+
