@@ -7,7 +7,7 @@ author_profile: false
 
 ### 2019
 
-1 .	TableNet: A Knowledge Graph of Interlinked Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
+1.	TableNet: A Knowledge Graph of Interlinked Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
 [The Web Conference 2019 (WWW 2019); San Francisco, USA (to appear)](http://www2019.thewebconf.org) [PDF | slides]
 
 2. 	Citation Needed: A Taxonomy and Algorithmic Assessment of Wikipedia's Verifiability. Miriam Redi, Besnik Fetahu, Jonathan Morgan, and Dario Taraborelli. [The Web Conference 2019 (WWW 2019); San Francisco, USA (to appear)](http://www2019.thewebconf.org) [PDF | slides]
