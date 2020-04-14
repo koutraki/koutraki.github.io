@@ -8,6 +8,7 @@ date: 2009-01-01
 location: "Heraklion, Greece"
 ---
 Teaching assistant for the winter semenster of 2009.
+
 Responsibilities
 ======
 
