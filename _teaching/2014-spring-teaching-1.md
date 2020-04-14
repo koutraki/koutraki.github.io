@@ -9,12 +9,12 @@ location: "Heraklion, Greece"
 ---
 
 Teaching assistant for the winter semenster of 2009.
-Responsibilities: 
+
+Responsibilities
+======
 Tutorial preparation and presentation
 Proposing subjects for the exams
 Supervising exams
-Heading 1
-======
 
 Heading 2
 ======
