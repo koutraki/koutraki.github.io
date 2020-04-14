@@ -12,9 +12,9 @@ Teaching assistant for the winter semenster of 2009.
 
 Responsibilities
 ======
-Tutorial preparation and presentation
-Proposing subjects for the exams
-Supervising exams
+* Tutorial preparation and presentation
+* Proposing subjects for the exams
+* Supervising exams
 
 Heading 2
 ======
