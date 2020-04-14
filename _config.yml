@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Besnik Fetahu's Personal Page"
+title                    : "Maria Koutraki's Personal Page"
 title_separator          : "-"
-name                     : &name "Besnik Fetahu"
+name                     : &name "Maria Koutraki"
 description              : &description "personal description"
-url                      : https://bfetahu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://koutraki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bfetahu/bfetahu.github.io"
+repository               : "koutraki/koutraki.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Besnik Fetahu"
+  name             : "Maria Koutraki"
   avatar           : "profile.png"
   bio              : "I am a Post-doctoral researcher at the L3S Research Center, Leibniz University of Hannover"
   location         : "Hannover, Germany"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=-CQlI8EAAAAJ&hl=en&oi=ao"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=1XZix7MAAAAJ"
+  email            : "koutraki@l3s.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,18 +95,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bfetahu"
+  github           : "koutraki"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/maria-koutraki-b272005a/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@FetahuBesnik"
+  twitter          : "@mairyl0u"
   vine             :
   weibo            :
   xing             :
