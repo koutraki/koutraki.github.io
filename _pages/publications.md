@@ -11,7 +11,7 @@ For a complete list of my publications please see:
 ### 2019
 
 *	TableNet: TableNet: An Approach for Determining Fine-grained Relations for Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
-[The Web Conference 2019 (WWW 2019); San Francisco, USA (to appear)](http://www2019.thewebconf.org)
+[The Web Conference 2019 (WWW 2019); San Francisco, USA](http://www2019.thewebconf.org)
 
 
 ### 2018
