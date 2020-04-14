@@ -8,8 +8,11 @@ date: 2009-01-01
 location: "Heraklion, Greece"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Teaching assistant for the winter semenster of 2009.
+Responsibilities: 
+Tutorial preparation and presentation
+Proposing subjects for the exams
+Supervising exams
 Heading 1
 ======
 
