@@ -8,6 +8,10 @@ author_profile: false
 For a complete list of my publications please see:  
 [DBLP](https://dblp.org/pers/k/Koutraki:Maria.html) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=1XZix7MAAAAJ)
 
+### 2020
+
+* MedTable: Extracting Disease Types from Web Tables. Maria Koutraki, Besnik Fetahu. [ESWC (Satellite Events) 2020.](https://2020.eswc-conferences.org/)
+
 ### 2019
 
 *	TableNet: TableNet: An Approach for Determining Fine-grained Relations for Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
