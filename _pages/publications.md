@@ -13,6 +13,8 @@ For a complete list of my publications please see:
 *	TableNet: TableNet: An Approach for Determining Fine-grained Relations for Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
 [The Web Conference 2019 (WWW 2019); San Francisco, USA](http://www2019.thewebconf.org)
 
+* HistorEx: Exploring Historical Text Corpora Using Word and Document Embeddings. Sven Müller, Michael Brunzel, Daniela Kaun, Russa Biswas, Maria Koutraki, Tabea Tietz, Harald Sack. [ESWC (Satellite Events) 2019.](https://2019.eswc-conferences.org/)
+
 
 ### 2018
 
