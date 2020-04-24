@@ -33,7 +33,7 @@ For a complete list of my publications please see:
 * Wikipedia Infobox Type Prediction Using Embeddings.	Russa Biswas, Rima Türker, Farshad Bakhshandegan Moghaddam, Maria Koutraki, Harald Sack. DL4KGS@ESWC 2018
 
 *	Exploiting Equivalence to Infer Type Subsumption in Linked Graphs. Russa Biswas, Maria Koutraki, Harald Sack.
- ESWC (Satellite Events) 2018
+ [ESWC (Satellite Events) 2018.](https://2018.eswc-conferences.org/)
  
  * Temporal Role Annotation for Named Entities. Maria Koutraki, Farshad Bakhshandegan Moghaddam, Harald Sack. SEMANTICS 2018
  
@@ -43,7 +43,7 @@ For a complete list of my publications please see:
 
 ### 2017
 
-* Online Relation Alignment for Linked Datasets. Maria Koutraki, Nicoleta Preda, Dan Vodislav. ESWC 2017
+* Online Relation Alignment for Linked Datasets. Maria Koutraki, Nicoleta Preda, Dan Vodislav. [ESWC 2017.](https://2017.eswc-conferences.org/)
 
 * Entity Suggestion Ranking via Context Hashing. Rima Türker, Maria Koutraki, Jörg Waitelonis, Harald Sack.
  International Semantic Web Conference (Posters, Demos & Industry Tracks) 2017
