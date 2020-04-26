@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course: Introduction to Computer Science"
+type: "Introduction to Computer Science -- Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Crete, Greece, Computer Science Department"
 date: 2009-01-01
