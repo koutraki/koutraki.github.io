@@ -8,13 +8,10 @@ date: 2010-01-02
 location: "Heraklion, Greece"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the spring semenster of 2010.
 
-Heading 1
-======
+Responsibilities
+=======
+* Tutorial preparation and presentation, both theoretical exercises and practical exercises in C language.
+* Supervising exams
 
-Heading 2
-======
-
-Heading 3
-======
