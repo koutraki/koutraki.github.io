@@ -2,7 +2,7 @@
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 For a complete list of my publications please see:  
