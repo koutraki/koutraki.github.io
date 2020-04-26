@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant -- Introduction to Computer Science"
 collection: teaching
-type: "Introduction to Computer Science -- Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2010-spring-teaching-1
 venue: "University of Crete, Greece, Computer Science Department"
 date: 2009-01-01
@@ -11,12 +11,7 @@ Teaching assistant for the winter semenster of 2009.
 
 Responsibilities
 =======
- Tutorial preparation and presentation
- Proposing subjects for the exams
- Supervising exams
+* Tutorial preparation and presentation
+* Proposing subjects for the exams
+* Supervising exams
 
-Heading 2
-======
-
-Heading 3
-======
