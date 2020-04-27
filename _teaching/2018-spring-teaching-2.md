@@ -7,7 +7,7 @@ venue: "Hasso-Plattner Institute (HPI), Potsdam, Germany"
 date: 2018-16-04
 location: "Potsdam, Germany"
 ---
-This is an online lecture we offered together with Prof. Dr. Harald Sack, for the OpenHPI platform. The key topics of the lectureare:
+This is an online lecture we offered together with Prof. Dr. Harald Sack, for the OpenHPI platform. The key topics of the lecture are:
 * Natural Language Processing
 * Linked Data Engineering 
 * Machine Learning basics
