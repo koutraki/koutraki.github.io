@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and graduate level course"
 permalink: /teaching/2018-spring-teaching-2
 venue: "Hasso-Plattner Institute (HPI), Potsdam, Germany"
-date: 2018-16-04
+date: 2018-04-16
 location: "Potsdam, Germany"
 ---
 This is an online lecture we offered together with Prof. Dr. Harald Sack, for the OpenHPI platform. The key topics of the lecture are:
