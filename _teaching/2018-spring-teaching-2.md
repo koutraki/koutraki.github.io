@@ -12,7 +12,7 @@ This is an online lecture we offered together with Prof. Dr. Harald Sack, for th
 * Linked Data Engineering 
 * Machine Learning basics
 
-* Link to the online MOOC lecture can be find [here](https://open.hpi.de/courses/semanticweb2017)
+Link to the online MOOC lecture can be find [here](https://open.hpi.de/courses/semanticweb2017)
 
 
 Details
