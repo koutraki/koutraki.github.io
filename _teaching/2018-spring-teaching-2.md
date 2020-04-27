@@ -7,12 +7,11 @@ venue: "Hasso-Plattner Institute (HPI), Potsdam, Germany"
 date: 2018-04-16
 location: "Potsdam, Germany"
 ---
-This is an online lecture we offered together with Prof. Dr. Harald Sack, for the OpenHPI platform. The key topics of the lecture are:
+This is an online lecture we offered together with Prof. Dr. Harald Sack, for the OpenHPI platform. Link to the online MOOC lecture can be find [here](https://open.hpi.de/courses/semanticweb2017). The key topics of the lecture are:
 * Natural Language Processing
 * Linked Data Engineering 
 * Machine Learning basics
 
-Link to the online MOOC lecture can be find [here](https://open.hpi.de/courses/semanticweb2017)
 
 
 Details
