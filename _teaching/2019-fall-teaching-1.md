@@ -8,6 +8,8 @@ date: 2019-09-01
 location: "Karlsruhe, Germany"
 ---
 
+Lecturer on the Practical Seminar for the fall semester of 2019.
+
 Details
 =======
 This is a practical seminar we offered together with Prof. Dr. Harald Sack for Karlsruhe Insitute of Technology. 
