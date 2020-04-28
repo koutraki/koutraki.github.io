@@ -8,7 +8,7 @@ date: 2019-09-01
 location: "Karlsruhe, Germany"
 ---
 
-Lecturer on the Practical Seminar for the fall semester of 2019.
+Lecturer on the Practical Seminar of Information Service Engineering for the fall semester of 2019.
 
 Details
 =======
