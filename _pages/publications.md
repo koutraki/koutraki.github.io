@@ -10,11 +10,13 @@ For a complete list of my publications please see:
 
 ### 2020
 
+* Symbolic Vs Sub-symbolic AI Methods: Friends or Enemies?. Eleni Ilkou, Maria Koutraki. [CIKM (Workshops) 2020.](https://www.cikm2020.org/)
+
 * MedTable: Extracting Disease Types from Web Tables. Maria Koutraki, Besnik Fetahu. [ESWC (Satellite Events) 2020.](https://2020.eswc-conferences.org/)
 
 ### 2019
 
-*	TableNet: TableNet: An Approach for Determining Fine-grained Relations for Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
+*	TableNet: An Approach for Determining Fine-grained Relations for Wikipedia Tables. Besnik Fetahu, Avishek Anand, and Maria Koutraki. 
 [The Web Conference 2019 (WWW 2019); San Francisco, USA](http://www2019.thewebconf.org)
 
 * Knowledge-Based Short Text Categorization Using Entity and Category Embedding. Rima Türker, Lei Zhang, Maria Koutraki, Harald Sack. [ESWC 2019.](https://2019.eswc-conferences.org/)
