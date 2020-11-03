@@ -23,8 +23,7 @@ Work experience
   * Supervisor: Professor Git
 
 * Sept. 2015 - Sept. 2012: Research Assistant
-  * Information Systems Laboratory, Institute of Computer Sci-ence (ICS),Foundation for Research and Technology Hellas, Greece
-  # * Duties included: Merging pull requests
+  * Information Systems Laboratory, Institute of Computer Science (ICS),Foundation for Research and Technology Hellas, Greece
   * Supervisor: Prof. Dr. Grigoris Antoniou
   
   
