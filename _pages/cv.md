@@ -22,10 +22,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2015 - Sept. 2012: Research Assistant
+  * Information Systems Laboratory, Institute of Computer Sci-ence (ICS),Foundation for Research and Technology Hellas, Greece
+  # * Duties included: Merging pull requests
+  * Supervisor: Prof. Dr. Grigoris Antoniou
+  
   
 Skills
 ======
