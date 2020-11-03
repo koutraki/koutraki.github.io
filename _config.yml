@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Maria Koutraki"
   avatar           : "MKoutraki_2012.jpg"
-  bio              : "I am a Post-doctoral researcher at the L3S Research Center, Leibniz University of Hannover"
-  location         : "Hannover, Germany"
+  bio              : "I am a guest Lecturer at department of Computational Linguistics of Universtity of Heidelberg" #"I am a Post-doctoral researcher at the L3S Research Center, Leibniz University of Hannover"
+  location         : "Seattle, WA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1XZix7MAAAAJ"
   email            : "koutraki@l3s.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        :   
   codepen          :
   dribbble         :
   flickr           :
