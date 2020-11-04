@@ -10,7 +10,8 @@ redirect_from:
 
 ## Research Interests
 
-My research focuses on bridging the gap between unstructured and structured data, with focus on IR and IE techniques applying to both structured and unstructured data. You can find my publications here. I am broadly interested in: 
+During my studies in both national (Greece) and international (France) institutions and my postDoc period at the Karlsruhe Institute of Technology (KIT) (Germany) and Leibniz University of Hanover (Germany), I have had the opportunity to improve my research skills in Semantic Web, Information Retrieval, Datamining and Knowledge Representation. 
+You can find my publications [here](https://koutraki.github.io/publications/). I am broadly interested in: 
 
 * Knowledge Graphs
 * Information Extraction
