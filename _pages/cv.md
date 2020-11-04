@@ -17,12 +17,25 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  
+* Feb. 2019 – now: Guest Lecturer
+  * University of Heidelberg, Department of Computational Linguistics, Heidelberg, Germany
+  
+* Mar. 2019 – Oct. 2020: Senior Researcher (Postdoc)
+  * L3S Research Center, Leibniz University of Hanover,Hanover, Germany
+  * Supervisor: Prof. Dr. Wolfgang Nejdl
+  
+* Jan. 2017 – Feb. 2019: Senior Researcher (Postdoc)
+  * FIZ-Karlsruhe Leibniz Institute, Karlsruhe Instituteof Technology (KIT), Karlsruhe, Germany
+  * Supervisor: Prof. Dr. Harald Sack
+  
+* Oct. 2012 – Sept. 2016: Junior Researcher (PhD student)
+  * DAVID Laboratory and ETIS Laboratory, University of Paris-Saclay, Paris, France
 
-* Sept. 2015 - Sept. 2012: Research Assistant
+* Apr. 2012 – July 2012: Research Intern
+  * Laboratoire de Recherche en Informatique (LRI), Paris,France
+  
+* Sept. 2008 - Sept. 2012: Research Assistant
   * Information Systems Laboratory, Institute of Computer Science (ICS),Foundation for Research and Technology Hellas, Greece
   * Supervisor: Prof. Dr. Grigoris Antoniou
   
