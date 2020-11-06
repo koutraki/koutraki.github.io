@@ -16,7 +16,7 @@ You can find my publications [here](https://koutraki.github.io/publications/). I
 * Knowledge Graphs
 * Information Extraction
 * Natural Language Processing
-* Knowledge Representation
+* Knowledge Representation and Reasoning
 * Semantic Web
 
 ## PhD Thesis
