@@ -10,7 +10,7 @@ redirect_from:
 
 ## Research Interests
 
-During my studies in both national (Greece) and international (France) institutions and my postDoc period at the Karlsruhe Institute of Technology (KIT) (Germany) and Leibniz University of Hanover (Germany), I have had the opportunity to improve my research skills in Semantic Web, Information Retrieval, Datamining and Knowledge Representation. 
+During my studies in both greek and french institutions and my postDoc period at the Karlsruhe Institute of Technology (KIT) (Germany) and Leibniz University of Hanover (Germany), I have had the opportunity to improve my research skills in Semantic Web, Knowledge Graphs, Data Mining and Knowledge Representation. 
 You can find my publications [here](https://koutraki.github.io/publications/). I am broadly interested in: 
 
 * Knowledge Graphs
