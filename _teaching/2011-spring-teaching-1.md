@@ -7,7 +7,7 @@ venue: "University of Crete, Greece, Computer Science Department"
 date: 2011-01-02
 location: "Heraklion, Greece"
 ---
-Teaching assistant for the spring semenster of 2011.
+Teaching assistant for the spring semester of 2011.
 
 Responsibilities
 =======
