@@ -8,7 +8,7 @@ date: 2010-01-02
 location: "Heraklion, Greece"
 ---
 
-Teaching assistant for the spring semenster of 2010.
+Teaching assistant for the spring semester of 2010.
 
 Responsibilities
 =======
