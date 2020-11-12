@@ -7,7 +7,7 @@ venue: "University of Cergy-Pontoise, France, Computer Science Department"
 date: 2016-01-02
 location: "Cergy, France"
 ---
-Teaching assistant for the spring semenster of 2016.
+Teaching assistant for the spring semester of 2016.
 
 Responsibilities
 =======
