@@ -22,5 +22,5 @@ transition from unstructured data to machine processable knowledge.
 
 * The lecture up to today has 6,846 enrolled students and is ranked with almost perfect score (5 stars).
 
-* Link to the online MOOC lecture can be find [here](https://open.hpi.de/courses/semanticweb2017).
+* Link to the online MOOC lecture can be found [here](https://open.hpi.de/courses/semanticweb2017).
 
