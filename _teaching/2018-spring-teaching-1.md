@@ -7,6 +7,6 @@ venue: "Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
 date: 2018-01-02
 location: "Karlsruhe, Germany"
 ---
-Guest lecturer for the Machine Learing part of the lecture of spring semenster of 2018.
+Guest lecturer for the Machine Learing part of the lecture of spring semester of 2018.
 
 
